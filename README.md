@@ -17,11 +17,11 @@ yarn
 ## Develop
 with npm:
 ```bash
-npm start
+npm serve
 ```
 with yarn:
 ```bash
-yarn start
+yarn serve
 ```
 
 ---
