@@ -1,24 +1,41 @@
-# my-vue-cli
+# template-cra-tailwind-jit-v2.2
 
-## Project setup
-```
+- **template of:** vue-cli 5-beta + vue3
+- **tailwindcss:** v2.2.7
+
+## Started
+with npm:
+```bash
 npm install
 ```
+with yarn:
+```bash
+yarn
+```
 
-### Compiles and hot-reloads for development
+---
+## Develop
+with npm:
+```bash
+npm start
 ```
-npm run serve
+with yarn:
+```bash
+yarn start
 ```
 
-### Compiles and minifies for production
-```
+---
+## Build
+with npm:
+```bash
 npm run build
 ```
-
-### Lints and fixes files
+with yarn:
+```bash
+yarn build
 ```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+---
+<p align="center">
+<img src="./powered-by-vitawind-bright.png">
+</p>
