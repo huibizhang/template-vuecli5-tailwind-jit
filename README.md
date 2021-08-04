@@ -1,4 +1,4 @@
-# template-cra-tailwind-jit-v2.2
+# template-vuecli5-tailwind-jit
 
 - **template of:** vue-cli 5-beta + vue3
 - **tailwindcss:** v2.2.7
