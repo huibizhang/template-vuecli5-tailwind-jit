@@ -7,12 +7,10 @@
 ## Started
 with npm:
 ```bash
-npm install -g tailwindcss-cli
 npm install
 ```
 with yarn:
 ```bash
-yarn global add tailwindcss-cli
 yarn
 ```
 
